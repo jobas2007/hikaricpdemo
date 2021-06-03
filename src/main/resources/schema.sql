@@ -1,0 +1,1 @@
+create table book (BOOK_ID bigint, author varchar(255), title varchar(255), primary key (BOOK_ID));
